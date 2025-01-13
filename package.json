@@ -1,0 +1,39 @@
+{
+	"name": "EvenFall Themes",
+	"displayName": "EvenFall Themes",
+	"description": "A new age color theme for developers, give a calm and friendly look for developers.",
+	"publisher": "Jayesh Karma",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "EvenFall Orange Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/DuskForage.json"
+			},
+			{
+				"label": "EvenFall Lavinder Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/EvenFall.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 35993
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/your-repo-name"
+	  },
+	  "homepage": "https://github.com/your-username/your-repo-name",
+	  "bugs": {
+		"url": "https://github.com/your-username/your-repo-name/issues"
+	  },
+	  "icon": "./assets/icon.png"
+}
